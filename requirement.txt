@@ -1,0 +1,21 @@
+Tools & Components Used:
+
+Hardware:
+
+1.Arduino Uno
+
+2.GSM SIM800C Module
+
+3.Water Level Sensor
+
+4.Connecting Cables
+
+5.12V Adapter
+
+Software / Libraries:
+
+1.Arduino IDE
+
+2.SoftwareSerial library
+
+3.Adafruit FONA library
